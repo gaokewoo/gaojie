@@ -1,0 +1,139 @@
+.search-custom {
+	padding:0 10px 0 0;
+}
+.search-custom .search-custom-item {
+	padding-left:20px;
+}
+.search-custom input {
+	margin-top:10px;
+	margin-right:0;
+}
+.search-custom button {
+	margin-left:0;
+}
+
+/* change by shally */
+.daterangepicker .btn-success {
+  color: #fff;
+  background: #f00;
+  width: 60px;
+  font-size: 14px;
+}
+.daterangepicker .btn-default {
+  color: #fff;
+  background: #f8a0a0;
+  width: 60px;
+  font-size: 14px;
+}
+#content .table > tbody > tr > td{
+	height: 50px;
+	line-height: 50px;
+	color:#2D2D2D;
+	border:none;
+	border-bottom: 1px solid #ddd;
+	vertical-align: middle;
+	font-size: 14px;
+	text-align: left;
+
+}
+
+#content .table > tbody > tr:hover{
+	color: #999;
+
+}
+#content .table > tbody > tr > td:hover{
+	height: 50px;
+	line-height: 50px;
+  font-size: 14px;
+  text-align: left;
+  color: #999;
+}
+#content .table > tbody > tr a:hover{
+	color: #999;
+
+}
+#content .table > thead > tr > th{
+	border:none;
+	border-bottom: 1px solid #ddd;
+	vertical-align: middle;
+	font-size: 14px;
+	text-align: left;
+	color: #999;
+}
+
+.btn-primary{
+
+	background: #ff344f;
+}
+.btn-primary:hover{
+	background: #ff5d72;
+	border: 1px solid #ff5d72;
+}
+
+
+
+/* change by shally */
+.#content .table > tbody > tr{
+  
+}
+
+
+#content .table > tbody > tr > td{
+
+    position: relative;
+    vertical-align: middle;
+}
+#content .table > tbody > tr .live_play {
+	
+
+}
+#content .table > tbody > tr .live_play img{
+	width: 150px;
+	height: 85px;
+	/* padding:0;  */
+	max-width: none;
+	} 
+#content .table > tbody > tr  .action{
+	margin-right:30px; 
+	display: inline-block;
+}
+.table > tbody > tr  .flag_exile,
+.table > tbody > tr  .flag_live,
+.table > tbody > tr  .flag_replay,
+.table > tbody > tr  .flag_no{
+	background: #cca327;
+	width: 55px;
+	position: absolute;
+	top: 8px;
+	left:8px;
+	display: inline-block;
+	height: 25px;
+	line-height: 25px;
+	color: #fff;
+	border-bottom-right-radius:10px; 
+	border-top-right-radius:5px; 
+}
+.table > tbody > tr  .flag_live{
+	background: #d03b42;
+}
+.table > tbody > tr  .flag_replay{
+	background: #30b3f1;
+}
+.table > tbody > tr  .flag_no{
+	background: #d74141;
+}
+.table > tbody > tr  .time_lens{
+  background: #2a2d3d;
+  opacity:0.8;
+  filter:alpha(opacity=80);
+  bottom: 8px;
+  left: 8px;
+  padding-right: 8px;
+ line-height: 20px;
+  width: 150px;
+  position: absolute;
+ display: inline-block;
+ font-size: 12px;
+ color: #fff;
+}
+

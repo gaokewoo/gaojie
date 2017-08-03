@@ -1,0 +1,26 @@
+.privilege-menu {
+	padding:8px 10px 10px 40px;
+}
+.privilege-menu-1 {
+	padding:8px 10px 10px 20px;
+}
+.privilege-controller ul {
+	margin: 0 5px;
+	padding: 0;
+}
+.privilege-controller ul li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	display: inline-block;
+	border: 0;
+	min-width: 250px;
+	cursor: pointer;
+}
+.controller-left {
+	float:left;
+}
+.controller-right {
+	float: left;
+	padding:7px 0 0 20px;
+}
